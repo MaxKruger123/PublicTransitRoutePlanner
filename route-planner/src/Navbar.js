@@ -10,7 +10,7 @@ const Navbar = () => {
           <Link to="/">Available Routes</Link>
         </li>
         <li>
-          <Link to="/ticket-purchase">Ticket Purchase</Link>
+          <Link to="/TicketPurchase">Ticket Purchase</Link>
         </li>
       </ul>
     </nav>
